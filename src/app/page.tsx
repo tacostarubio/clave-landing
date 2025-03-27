@@ -24,7 +24,7 @@ export default function Home() {
             }}>
               <div className="p-10 md:p-16 backdrop-blur-sm backdrop-brightness-75">
                 <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold text-center mb-6 sm:mb-8 text-white max-w-4xl mx-auto leading-tight">
-                  Your AI-powered co-store operator
+                  Your AI-powered<br /> co-store operator
                 </h1>
                 <p className="text-base sm:text-lg md:text-xl lg:text-2xl text-white max-w-3xl mx-auto mb-8 sm:mb-12">
                   Turn raw franchise data into real-time, actionable insights with Clave&apos;s AI-powered platform for QSR operations.
