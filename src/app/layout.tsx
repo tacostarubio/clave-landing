@@ -1,12 +1,6 @@
 import type React from "react"
 import "@/app/globals.css"
-import { Inter } from "next/font/google"
-
-// Use Inter font from Google Fonts instead of the missing Switzer font
-const inter = Inter({
-  subsets: ["latin"],
-  variable: "--font-inter",
-})
+import "@/app/switzer-font.css"
 
 export const metadata = {
   title: "Clave - Your AI-Powered co-store operator",
@@ -21,7 +15,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
-      <body className={`${inter.variable} font-sans`}>
+      <body className="font-sans">
         {children}
       </body>
     </html>

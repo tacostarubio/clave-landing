@@ -18,13 +18,13 @@ export default function Home() {
               priority
             />
             <div className="rounded-2xl overflow-hidden shadow-2xl w-full mx-auto" style={{
-              backgroundImage: "url('/clave-gradient-background.png')",
+              background: "linear-gradient(135deg, #70cef4 0%, #49a5d3 30%, #0979b9 70%, #005fa2 100%)",
               backgroundSize: "cover",
               backgroundPosition: "center"
             }}>
               <div className="p-10 md:p-16 backdrop-blur-sm backdrop-brightness-75">
                 <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold text-center mb-8 text-white max-w-4xl mx-auto leading-tight">
-                  AI-Powered Insights for QSR Franchises
+                  Your AI-Powered co-store operator
                 </h1>
                 <p className="text-xl md:text-2xl text-white max-w-3xl mx-auto mb-12">
                   Turn raw franchise data into real-time, actionable insights with Clave&apos;s AI-powered platform for QSR operations.
@@ -426,7 +426,7 @@ export default function Home() {
           </p>
           
           <div className="rounded-2xl overflow-hidden shadow-2xl w-full mx-auto" style={{
-            backgroundImage: "url('/clave-gradient-background.png')",
+            background: "linear-gradient(135deg, #70cef4 0%, #49a5d3 30%, #0979b9 70%, #005fa2 100%)",
             backgroundSize: "cover",
             backgroundPosition: "center"
           }}>
@@ -582,7 +582,7 @@ export default function Home() {
                 height={50}
                 className="h-10 w-auto invert mb-3"
               />
-              <p className="text-sm text-gray-400">© 2024 Clave. All rights reserved.</p>
+              <p className="text-sm text-gray-400">© 2025 Clave. All rights reserved.</p>
             </div>
           </div>
         </div>
