@@ -10,11 +10,11 @@ export default function Home() {
         <div className="container mx-auto max-w-6xl">
           <div className="flex flex-col items-center text-center">
             <Image
-              src="/clave-logo-goodsize.svg"
+              src="/clave-logo-white.png"
               alt="Clave Logo"
               width={220}
               height={80}
-              className="h-20 w-auto invert mb-14"
+              className="h-20 w-auto mb-14"
               priority
             />
             <div className="rounded-2xl overflow-hidden shadow-2xl w-full mx-auto" style={{
@@ -577,11 +577,11 @@ export default function Home() {
             <div className="mb-4 md:mb-0 text-center md:text-left w-full md:w-auto">
               <div className="flex justify-center md:justify-start">
                 <Image
-                  src="/clave-logo-goodsize.svg"
+                  src="/clave-logo-white.png"
                   alt="Clave Logo"
                   width={140}
                   height={50}
-                  className="h-10 w-auto invert mb-3"
+                  className="h-10 w-auto mb-3"
                 />
               </div>
               <p className="text-sm text-gray-400">© 2025 Clave. All rights reserved.</p>
