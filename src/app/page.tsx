@@ -421,8 +421,8 @@ export default function Home() {
           <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold text-center mb-6 sm:mb-10 text-white">
             Pricing
           </h2>
-          <p className="text-base sm:text-lg md:text-xl text-center text-gray-300 mb-12 sm:mb-20 max-w-xs sm:max-w-md md:max-w-xl mx-auto">
-            Flexible plans designed to meet<br className="block sm:hidden" /> the needs of any QSR franchise operation.
+          <p className="text-base sm:text-lg md:text-xl text-center text-gray-300 mb-12 sm:mb-20 max-w-xs sm:max-w-md md:max-w-xl lg:max-w-2xl mx-auto">
+            Flexible plans designed to meet the needs of any QSR franchise operation.
           </p>
           
           <div className="rounded-2xl overflow-hidden shadow-2xl w-full mx-auto" style={{
