@@ -466,8 +466,8 @@ export default function Home() {
                     </ul>
                     
                     <div className="mt-auto">
-                      <a href="/form" className="w-full py-3 px-6 rounded-lg border border-teal-400 text-teal-400 hover:bg-teal-400 hover:text-black transition duration-300 font-medium group-hover:bg-teal-400 group-hover:text-black inline-block text-center">
-                        Start now - 3 months free
+                      <a href="/form" className="w-full py-3 px-6 rounded-lg border border-teal-400 text-teal-400 hover:bg-teal-400 hover:text-black transition duration-300 text-sm md:text-base font-medium group-hover:bg-teal-400 group-hover:text-black inline-block text-center">
+                        Start with 3 months free
                       </a>
                     </div>
                   </div>
@@ -510,8 +510,8 @@ export default function Home() {
                     </ul>
                     
                     <div className="mt-auto">
-                      <a href="/form" className="w-full py-3 px-6 rounded-lg bg-teal-500 text-black hover:bg-teal-400 transition duration-300 font-medium inline-block text-center">
-                        Start now - 3 months free
+                      <a href="/form" className="w-full py-3 px-6 rounded-lg bg-teal-500 text-black hover:bg-teal-400 transition duration-300 text-sm md:text-base font-medium inline-block text-center">
+                        Start with 3 months free
                       </a>
                     </div>
                   </div>
@@ -558,7 +558,7 @@ export default function Home() {
                     </ul>
                     
                     <div className="mt-auto">
-                      <a href="/form" className="w-full py-3 px-6 rounded-lg border border-teal-400 text-teal-400 hover:bg-teal-400 hover:text-black transition duration-300 font-medium group-hover:bg-teal-400 group-hover:text-black inline-block text-center">
+                      <a href="/form" className="w-full py-3 px-6 rounded-lg border border-teal-400 text-teal-400 hover:bg-teal-400 hover:text-black transition duration-300 text-sm md:text-base font-medium group-hover:bg-teal-400 group-hover:text-black inline-block text-center">
                         Schedule a Call
                       </a>
                     </div>
